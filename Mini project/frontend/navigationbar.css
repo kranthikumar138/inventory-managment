@@ -1,0 +1,40 @@
+nav{
+    position: relative;
+    width: 120%;
+    height: 30%;
+    background-color: rgb(143, 240, 46);
+    /* color: rgb(221, 52, 52); */
+    /* display: flex;
+    justify-content: space-between;
+
+*/
+}
+
+ ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    display: inline;
+    padding: 14px 72px;
+    font-size: 20px;
+    font: weight 700px;;
+    text-decoration: none;
+   
+
+
+}
+/* h3{
+    color: white;
+} */
+.order-items {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: flex-end;
+    margin-right: 2rem;
+  }
